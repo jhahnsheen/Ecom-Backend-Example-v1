@@ -2,7 +2,7 @@
 
 This application is an example of the backend of an e-commerce website. While this application may lack a frontend that allows customers to access the information, the functionality can be used as a reference for any coders looking for an example of working code for an e-commerce backend. 
 
-This program requires MySQL and Node.js to run properly.
+This program requires MySQL and Node.js to run properly, as well as a program like Insomnia.
 ## Installation
 
 As a purely backend application code, there is no site to visit to easily try out the code. However,  the full code can be accessed ran on any computer. Please note that these instructions will require an [SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) for GitHub.
@@ -23,6 +23,10 @@ git clone [insert link here]
 npm i
 ```
 6. Edit information within the .env file to match the login credentials for MySQL on your computer. 
+
+7. Run db/schema.sql to create the necessary databases and seeds/index.js to seed the database information.
+
+8. Open Insomnia and use port 3001 after running node on server.js.
 
 ## Usage
 
