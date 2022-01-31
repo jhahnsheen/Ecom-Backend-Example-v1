@@ -13,7 +13,7 @@ As a purely backend application code, there is no site to visit to easily try ou
 
 3. Open your terminal on your computer and navigate to the location where you want to clone. Type in the command 
 ```bash
-git clone [insert link here]
+git clone git@github.com:jhahnsheen/Ecom-Backend-Example-v1.git
 ```
 
 4. Open the cloned git file in your IDE and terminal. 
