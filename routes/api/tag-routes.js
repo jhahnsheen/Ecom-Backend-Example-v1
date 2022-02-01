@@ -25,7 +25,7 @@ router.get('/:id', async (req, res) => {
       include: [{ model: Product }],
     });
 
-    if (!productData) {
+    if (!tagData) {
       res.status(404).json({ message: 'No product found with that id!' });
       return;
     };
