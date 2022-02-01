@@ -30,6 +30,6 @@ npm i
 
 ## Usage
 
-However, you can find a video detailing the functionality of the code [here](https://drive.google.com/drive/folders/1W_cLe2wHXnKCDJgUemH-F4OKqixn7-Y0?usp=sharing).
+You can find a video detailing the functionality of the code [here](https://drive.google.com/drive/folders/1W_cLe2wHXnKCDJgUemH-F4OKqixn7-Y0?usp=sharing).
 
 
